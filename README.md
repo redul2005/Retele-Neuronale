@@ -1,5 +1,5 @@
 # Retele-Neuronale
-Reteaua Neuronala are ca scop masurarea obiectelor din imagine cu precizie.
+Reteaua Neuronala are ca scop masurarea obiectelor din imagine cu precizie si clasificarea lor in functie de conformitate.
 
 # 📘 README – Etapa 3: Analiza și Pregătirea Setului de Date pentru Rețele Neuronale
 
